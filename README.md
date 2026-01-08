@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Shashank Raj Dahal`
+- **CCID:** `srdahal`
 
 ## References and Resources
 
